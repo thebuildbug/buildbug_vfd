@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LADDER xmlns:ns2="http://initialvariable.xmlclasses.xmleqmtapi.wps.weg.net/txt" revision="2">
+    <!-- ENTRADAS DITIAIS - PROPRIAS -->
+    <VARIABLE group="GLOBAL_IO" tag="DI1" datatype="BOOL" address="0" bit="0" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 1">
+            <variable_language language="pt" text="Entrada digital 1"/>
+            <variable_language language="en" text="Digital input 1"/>
+            <variable_language language="es" text="Entrada digital 1"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI2" datatype="BOOL" address="0" bit="1" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 2">
+            <variable_language language="pt" text="Entrada digital 2"/>
+            <variable_language language="en" text="Digital input 2"/>
+            <variable_language language="es" text="Entrada digital 2"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI3" datatype="BOOL" address="0" bit="2" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 3">
+            <variable_language language="pt" text="Entrada digital 3"/>
+            <variable_language language="en" text="Digital input 3"/>
+            <variable_language language="es" text="Entrada digital 3"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI4" datatype="BOOL" address="0" bit="3" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 4">
+            <variable_language language="pt" text="Entrada digital 4"/>
+            <variable_language language="en" text="Digital input 4"/>
+            <variable_language language="es" text="Entrada digital 4"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI5" datatype="BOOL" address="0" bit="4" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 5- I/O expansion module">
+            <variable_language language="pt" text="Entrada digital 5 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital input 5 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada digital 5- Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI6" datatype="BOOL" address="0" bit="5" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 6- I/O expansion module">
+            <variable_language language="pt" text="Entrada digital 6 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital input 6 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada digital 6- Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI7" datatype="BOOL" address="0" bit="6" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 7- I/O expansion module">
+            <variable_language language="pt" text="Entrada digital 7 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital input 7 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada digital 7- Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DI8" datatype="BOOL" address="0" bit="7" at="%IB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital input 8- I/O expansion module">
+            <variable_language language="pt" text="Entrada digital 8 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital input 8 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada digital 8 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="AI1" datatype="INT" address="2" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Analog input 1">
+            <variable_language language="pt" text="Entrada analógica 1"/>
+            <variable_language language="en" text="Analog input 1"/>
+            <variable_language language="es" text="Entrada analógica 1"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="AI2" datatype="INT" address="4" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Analog input 2 - I/O expansion module">
+            <variable_language language="pt" text="Entrada analógica 2 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Analog input 2  - I/O expansion module"/>
+            <variable_language language="es" text="Entrada analógica 2 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="AIP" datatype="INT" address="6" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Analog input (Potentiometer) - I/O expansion module">
+            <variable_language language="pt" text="Entrada analógica (Potenciômetro) - Módulo de expansão de I/O"/>
+            <variable_language language="en" text="Analog input (Potentiometer) - I/O expansion module"/>
+            <variable_language language="es" text="Entrada analógica (Potenciômetro) - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="FI1" datatype="INT" address="8" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency Input 1">
+            <variable_language language="pt" text="Entrada em frequência 1"/>
+            <variable_language language="en" text="Frequency input 1"/>
+            <variable_language language="es" text="Entrada en frecuencia 1"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="FI2" datatype="INT" address="10" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency Input 2 - I/O expansion module">
+            <variable_language language="pt" text="Entrada em frequência 2 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency input 2 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada en frecuencia 2 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="FI3" datatype="INT" address="12" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency Input 3 - I/O expansion module">
+            <variable_language language="pt" text="Entrada em frequência 3 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency input 3 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada en frecuencia 3 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="FI4" datatype="INT" address="14" at="%IW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency Input 4 - I/O expansion module">
+            <variable_language language="pt" text="Entrada em frequência 4 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency input 4 - I/O expansion module"/>
+            <variable_language language="es" text="Entrada en frecuencia 4 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE> 
+    <VARIABLE group="GLOBAL_IO" tag="DO1" datatype="BOOL" address="0" bit="0" at="%QB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital output 1">
+            <variable_language language="pt" text="Saída digital 1"/>
+            <variable_language language="en" text="Digital output 1"/>
+            <variable_language language="es" text="Salida digital 1"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DO2" datatype="BOOL" address="0" bit="1" at="%QB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital output 2 - I/O expansion module">
+            <variable_language language="pt" text="Saída digital 2 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital output 2 - I/O expansion module"/>
+            <variable_language language="es" text="Salida digital 2 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DO3" datatype="BOOL" address="0" bit="2" at="%QB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital output 3 - I/O expansion module">
+            <variable_language language="pt" text="Saída digital 3 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital output 3 - I/O expansion module"/>
+            <variable_language language="es" text="Salida digital 3 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="DO4" datatype="BOOL" address="0" bit="3" at="%QB" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Digital output 4 - I/O expansion module">
+            <variable_language language="pt" text="Saída digital 4 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Digital output 4 - I/O expansion module"/>
+            <variable_language language="es" text="Salida digital 4 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="AO1" datatype="INT" address="2" at="%QW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Analog output 1 - I/O expansion module">
+            <variable_language language="pt" text="Saída analógica 1 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Analog output 1 - I/O expansion module"/>
+            <variable_language language="es" text="Salida analógica 1 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="AO2" datatype="INT" address="4" at="%QW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Analog output 2 - I/O expansion module">
+            <variable_language language="pt" text="Saída analógica 2 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Analog output 2 - I/O expansion module"/>
+            <variable_language language="es" text="Salida analógica 2 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <VARIABLE group="GLOBAL_IO" tag="FO1" datatype="INT" address="6" at="%QW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency output 1 - I/O expansion module">
+            <variable_language language="pt" text="Saída em frequência 1 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency output 1 - I/O expansion module"/>
+            <variable_language language="es" text="Salida en frecuencia 1 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>    
+    <VARIABLE group="GLOBAL_IO" tag="FO2" datatype="INT" address="8" at="%QW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency output 2 - I/O expansion module">
+            <variable_language language="pt" text="Saída em frequência 2 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency output 2 - I/O Expansion module"/>
+            <variable_language language="es" text="Salida en frecuencia 2 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>    
+    <VARIABLE group="GLOBAL_IO" tag="FO3" datatype="INT" address="10" at="%QW" initialvalue="0" value="" comment="" text="" size="0" var_instance="false" var_struct="false" instance="">
+        <ns2:variable_text text="Frequency output 3 - I/O expansion module">
+            <variable_language language="pt" text="Saída em frequência 3 - Módulo de expansão I/O"/>
+            <variable_language language="en" text="Frequency output 3 - I/O expansion module"/>
+            <variable_language language="es" text="Salida en frecuencia 3 - Módulo de expansion I/O"/>
+        </ns2:variable_text>
+    </VARIABLE>    
+</LADDER>

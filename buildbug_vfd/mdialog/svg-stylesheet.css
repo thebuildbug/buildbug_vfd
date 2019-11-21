@@ -1,0 +1,58 @@
+/* RECT */
+
+rect.WhiteRect {
+stroke-width:   1;
+stroke      :   white;
+fill        :   white;
+fill-opacity:   1.0;
+}
+
+rect.TransparentRect {
+stroke-width:   1;
+stroke      :   none;
+fill        :   none;
+fill-opacity:   1.0;
+}
+
+rect.WhiteBorderRect {
+stroke-width:   1;
+stroke      :   white;
+fill        :   none;
+fill-opacity:   1.0;
+}
+
+rect.WhiteBorderGainsboroRect {
+stroke-width:   1;
+stroke      :   white;
+fill        :   #dcdcdc; /* Gainsboro */
+fill-opacity:   1.0;
+}
+
+/* TEXT */
+
+text.BigTextBlack {
+fill        :   black;
+text-anchor :   start;
+font-family :   arial;
+font-size   :   18px;
+font-weight :   normal;
+font-style  :   normal;
+}
+
+text.15pxTextBlack {
+fill        :   black;
+text-anchor :   start;
+font-family :   arial;
+font-size   :   15px;
+font-weight :   normal;
+font-style  :   normal;
+}
+
+text.NormalTextBlack {
+fill        :   black;
+text-anchor :   start;
+font-family :   arial;
+font-size   :   11px;
+font-weight :   normal;
+font-style  :   normal;
+}

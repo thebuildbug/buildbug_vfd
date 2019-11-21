@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config_user_parameters xmlns:ns2="http://initialvariable.xmlclasses.xmleqmtapi.wps.weg.net/txt" revision="3">
+    <config_user_parameter parameter_ref="P910" parameterName="P910" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 1">
+            <variable_language language="pt" text="Parâmetro SoftPLC 1"/>
+            <variable_language language="es" text="Parámetro SoftPLC 1"/>
+            <variable_language language="en" text="SoftPLC Parameter 1"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P911" parameterName="P911" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 2">
+            <variable_language language="pt" text="Parâmetro SoftPLC 2"/>
+            <variable_language language="es" text="Parámetro SoftPLC 2"/>
+            <variable_language language="en" text="SoftPLC Parameter 2"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P912" parameterName="P912" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 3">
+            <variable_language language="pt" text="Parâmetro SoftPLC 3"/>
+            <variable_language language="es" text="Parámetro SoftPLC 3"/>
+            <variable_language language="en" text="SoftPLC Parameter 3"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P913" parameterName="P913" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 4">
+            <variable_language language="pt" text="Parâmetro SoftPLC 4"/>
+            <variable_language language="es" text="Parámetro SoftPLC 4"/>
+            <variable_language language="en" text="SoftPLC Parameter 4"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P914" parameterName="P914" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 5">
+            <variable_language language="pt" text="Parâmetro SoftPLC 5"/>
+            <variable_language language="es" text="Parámetro SoftPLC 5"/>
+            <variable_language language="en" text="SoftPLC Parameter 5"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P915" parameterName="P915" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 6">
+            <variable_language language="pt" text="Parâmetro SoftPLC 6"/>
+            <variable_language language="es" text="Parámetro SoftPLC 6"/>
+            <variable_language language="en" text="SoftPLC Parameter 6"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P916" parameterName="P916" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 7">
+            <variable_language language="pt" text="Parâmetro SoftPLC 7"/>
+            <variable_language language="es" text="Parámetro SoftPLC 7"/>
+            <variable_language language="en" text="SoftPLC Parameter 7"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P917" parameterName="P917" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 8">
+            <variable_language language="pt" text="Parâmetro SoftPLC 8"/>
+            <variable_language language="es" text="Parámetro SoftPLC 8"/>
+            <variable_language language="en" text="SoftPLC Parameter 8"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P918" parameterName="P918" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 9">
+            <variable_language language="pt" text="Parâmetro SoftPLC 9"/>
+            <variable_language language="es" text="Parámetro SoftPLC 9"/>
+            <variable_language language="en" text="SoftPLC Parameter 9"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P919" parameterName="P919" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="true" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 10">
+            <variable_language language="pt" text="Parâmetro SoftPLC 10"/>
+            <variable_language language="es" text="Parámetro SoftPLC 10"/>
+            <variable_language language="en" text="SoftPLC Parameter 10"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P920" parameterName="P920" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 11">
+            <variable_language language="pt" text="Parâmetro SoftPLC 11"/>
+            <variable_language language="es" text="Parámetro SoftPLC 11"/>
+            <variable_language language="en" text="SoftPLC Parameter 11"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P921" parameterName="P921" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 12">
+            <variable_language language="pt" text="Parâmetro SoftPLC 12"/>
+            <variable_language language="es" text="Parámetro SoftPLC 12"/>
+            <variable_language language="en" text="SoftPLC Parameter 12"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P922" parameterName="P922" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 13">
+            <variable_language language="pt" text="Parâmetro SoftPLC 13"/>
+            <variable_language language="es" text="Parámetro SoftPLC 13"/>
+            <variable_language language="en" text="SoftPLC Parameter 13"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P923" parameterName="P923" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 14">
+            <variable_language language="pt" text="Parâmetro SoftPLC 14"/>
+            <variable_language language="es" text="Parámetro SoftPLC 14"/>
+            <variable_language language="en" text="SoftPLC Parameter 14"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P924" parameterName="P924" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 15">
+            <variable_language language="pt" text="Parâmetro SoftPLC 15"/>
+            <variable_language language="es" text="Parámetro SoftPLC 15"/>
+            <variable_language language="en" text="SoftPLC Parameter 15"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P925" parameterName="P925" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 16">
+            <variable_language language="pt" text="Parâmetro SoftPLC 16"/>
+            <variable_language language="es" text="Parámetro SoftPLC 16"/>
+            <variable_language language="en" text="SoftPLC Parameter 16"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P926" parameterName="P926" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 17">
+            <variable_language language="pt" text="Parâmetro SoftPLC 17"/>
+            <variable_language language="es" text="Parámetro SoftPLC 17"/>
+            <variable_language language="en" text="SoftPLC Parameter 17"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P927" parameterName="P927" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 18">
+            <variable_language language="pt" text="Parâmetro SoftPLC 18"/>
+            <variable_language language="es" text="Parámetro SoftPLC 18"/>
+            <variable_language language="en" text="SoftPLC Parameter 18"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P928" parameterName="P928" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 19">
+            <variable_language language="pt" text="Parâmetro SoftPLC 19"/>
+            <variable_language language="es" text="Parámetro SoftPLC 19"/>
+            <variable_language language="en" text="SoftPLC Parameter 19"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P929" parameterName="P929" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 20">
+            <variable_language language="pt" text="Parâmetro SoftPLC 20"/>
+            <variable_language language="es" text="Parámetro SoftPLC 20"/>
+            <variable_language language="en" text="SoftPLC Parameter 20"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P930" parameterName="P930" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 21">
+            <variable_language language="pt" text="Parâmetro SoftPLC 21"/>
+            <variable_language language="es" text="Parámetro SoftPLC 21"/>
+            <variable_language language="en" text="SoftPLC Parameter 21"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P931" parameterName="P931" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 22">
+            <variable_language language="pt" text="Parâmetro SoftPLC 22"/>
+            <variable_language language="es" text="Parámetro SoftPLC 22"/>
+            <variable_language language="en" text="SoftPLC Parameter 22"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P932" parameterName="P932" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 23">
+            <variable_language language="pt" text="Parâmetro SoftPLC 23"/>
+            <variable_language language="es" text="Parámetro SoftPLC 23"/>
+            <variable_language language="en" text="SoftPLC Parameter 23"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P933" parameterName="P933" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 24">
+            <variable_language language="pt" text="Parâmetro SoftPLC 24"/>
+            <variable_language language="es" text="Parámetro SoftPLC 24"/>
+            <variable_language language="en" text="SoftPLC Parameter 24"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P934" parameterName="P934" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 25">
+            <variable_language language="pt" text="Parâmetro SoftPLC 25"/>
+            <variable_language language="es" text="Parámetro SoftPLC 25"/>
+            <variable_language language="en" text="SoftPLC Parameter 25"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P935" parameterName="P935" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 26">
+            <variable_language language="pt" text="Parâmetro SoftPLC 26"/>
+            <variable_language language="es" text="Parámetro SoftPLC 26"/>
+            <variable_language language="en" text="SoftPLC Parameter 26"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P936" parameterName="P936" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 27">
+            <variable_language language="pt" text="Parâmetro SoftPLC 27"/>
+            <variable_language language="es" text="Parámetro SoftPLC 27"/>
+            <variable_language language="en" text="SoftPLC Parameter 27"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P937" parameterName="P937" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 28">
+            <variable_language language="pt" text="Parâmetro SoftPLC 28"/>
+            <variable_language language="es" text="Parámetro SoftPLC 28"/>
+            <variable_language language="en" text="SoftPLC Parameter 28"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P938" parameterName="P938" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 29">
+            <variable_language language="pt" text="Parâmetro SoftPLC 29"/>
+            <variable_language language="es" text="Parámetro SoftPLC 29"/>
+            <variable_language language="en" text="SoftPLC Parameter 29"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P939" parameterName="P939" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 30">
+            <variable_language language="pt" text="Parâmetro SoftPLC 30"/>
+            <variable_language language="es" text="Parámetro SoftPLC 30"/>
+            <variable_language language="en" text="SoftPLC Parameter 30"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P940" parameterName="P940" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 31">
+            <variable_language language="pt" text="Parâmetro SoftPLC 31"/>
+            <variable_language language="es" text="Parámetro SoftPLC 31"/>
+            <variable_language language="en" text="SoftPLC Parameter 31"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P941" parameterName="P941" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 32">
+            <variable_language language="pt" text="Parâmetro SoftPLC 32"/>
+            <variable_language language="es" text="Parámetro SoftPLC 32"/>
+            <variable_language language="en" text="SoftPLC Parameter 32"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P942" parameterName="P942" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 33">
+            <variable_language language="pt" text="Parâmetro SoftPLC 33"/>
+            <variable_language language="es" text="Parámetro SoftPLC 33"/>
+            <variable_language language="en" text="SoftPLC Parameter 33"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P943" parameterName="P943" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 34">
+            <variable_language language="pt" text="Parâmetro SoftPLC 34"/>
+            <variable_language language="es" text="Parámetro SoftPLC 34"/>
+            <variable_language language="en" text="SoftPLC Parameter 34"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P944" parameterName="P944" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 35">
+            <variable_language language="pt" text="Parâmetro SoftPLC 35"/>
+            <variable_language language="es" text="Parámetro SoftPLC 35"/>
+            <variable_language language="en" text="SoftPLC Parameter 35"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P945" parameterName="P945" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 36">
+            <variable_language language="pt" text="Parâmetro SoftPLC 36"/>
+            <variable_language language="es" text="Parámetro SoftPLC 36"/>
+            <variable_language language="en" text="SoftPLC Parameter 36"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P946" parameterName="P946" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 37">
+            <variable_language language="pt" text="Parâmetro SoftPLC 37"/>
+            <variable_language language="es" text="Parámetro SoftPLC 37"/>
+            <variable_language language="en" text="SoftPLC Parameter 37"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P947" parameterName="P947" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 38">
+            <variable_language language="pt" text="Parâmetro SoftPLC 38"/>
+            <variable_language language="es" text="Parámetro SoftPLC 38"/>
+            <variable_language language="en" text="SoftPLC Parameter 38"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P948" parameterName="P948" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 39">
+            <variable_language language="pt" text="Parâmetro SoftPLC 39"/>
+            <variable_language language="es" text="Parámetro SoftPLC 39"/>
+            <variable_language language="en" text="SoftPLC Parameter 39"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P949" parameterName="P949" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 40">
+            <variable_language language="pt" text="Parâmetro SoftPLC 40"/>
+            <variable_language language="es" text="Parámetro SoftPLC 40"/>
+            <variable_language language="en" text="SoftPLC Parameter 40"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P950" parameterName="P950" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 41">
+            <variable_language language="pt" text="Parâmetro SoftPLC 41"/>
+            <variable_language language="es" text="Parámetro SoftPLC 41"/>
+            <variable_language language="en" text="SoftPLC Parameter 41"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P951" parameterName="P951" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 42">
+            <variable_language language="pt" text="Parâmetro SoftPLC 42"/>
+            <variable_language language="es" text="Parámetro SoftPLC 42"/>
+            <variable_language language="en" text="SoftPLC Parameter 42"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P952" parameterName="P952" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 43">
+            <variable_language language="pt" text="Parâmetro SoftPLC 43"/>
+            <variable_language language="es" text="Parámetro SoftPLC 43"/>
+            <variable_language language="en" text="SoftPLC Parameter 43"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P953" parameterName="P953" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 44">
+            <variable_language language="pt" text="Parâmetro SoftPLC 44"/>
+            <variable_language language="es" text="Parámetro SoftPLC 44"/>
+            <variable_language language="en" text="SoftPLC Parameter 44"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P954" parameterName="P954" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 45">
+            <variable_language language="pt" text="Parâmetro SoftPLC 45"/>
+            <variable_language language="es" text="Parámetro SoftPLC 45"/>
+            <variable_language language="en" text="SoftPLC Parameter 45"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P955" parameterName="P955" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 46">
+            <variable_language language="pt" text="Parâmetro SoftPLC 46"/>
+            <variable_language language="es" text="Parámetro SoftPLC 46"/>
+            <variable_language language="en" text="SoftPLC Parameter 46"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P956" parameterName="P956" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 47">
+            <variable_language language="pt" text="Parâmetro SoftPLC 47"/>
+            <variable_language language="es" text="Parámetro SoftPLC 47"/>
+            <variable_language language="en" text="SoftPLC Parameter 47"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P957" parameterName="P957" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 48">
+            <variable_language language="pt" text="Parâmetro SoftPLC 48"/>
+            <variable_language language="es" text="Parámetro SoftPLC 48"/>
+            <variable_language language="en" text="SoftPLC Parameter 48"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P958" parameterName="P958" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 49">
+            <variable_language language="pt" text="Parâmetro SoftPLC 49"/>
+            <variable_language language="es" text="Parámetro SoftPLC 49"/>
+            <variable_language language="en" text="SoftPLC Parameter 49"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+    <config_user_parameter parameter_ref="P959" parameterName="P959" unit="" enum_unit="NONE" modifyOptions="WITHOUT_CONFIRMATION" decimal_digits="0" minimum="-9999" maximum="9999" default_value="0" datatype="INT" password="true" password_level="0" read_only="false" display_hmi="false" retentive="false" hexadecimal="false" motor_stopped="false">
+        <help_text>
+            <ns2:variable_text>
+                <variable_language language="en"/>
+            </ns2:variable_text>
+        </help_text>
+        <ns2:variable_text text="SoftPLC Parameter 50">
+            <variable_language language="pt" text="Parâmetro SoftPLC 50"/>
+            <variable_language language="es" text="Parámetro SoftPLC 50"/>
+            <variable_language language="en" text="SoftPLC Parameter 50"/>
+        </ns2:variable_text>
+    </config_user_parameter>
+</config_user_parameters>

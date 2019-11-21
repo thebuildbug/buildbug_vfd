@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with WPS (http://www.weg.net/) -->
+<?xml-stylesheet type="text/css" href="svg-stylesheet.css" ?>
+
+<svg
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:wpsmdg="http://www.weg.net/wps/mdg"
+    version="1.0"
+    width="1800"
+    height="1800"
+    id="SCA06MainSignals">
+    <title>Monitoring Dialog</title>
+
+    <g transform="translate(0,0)" id="Status">
+
+        <!-- Rect of Status -->
+        <rect class="WhiteBorderGainsboroRect" x="5" y="5" width="550" height="64" rx="5" />
+
+        <!-- P00006 -->
+
+        <!-- Parameter Number -->
+        <rect class="TransparentRect" x="10" y="10" width="540" height="24" rx="5" />
+        <text class="BigTextBlack" x="15" y="28" >P00006</text>
+
+        <!-- Parameter Description -->
+        <text class="BigTextBlack" x="95" y="28" id="idP00006_description"></text>
+        <wpsmdg:text targetid="idP00006_description" value="PARAMETER$VariableText$P6"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="16" y="42" width="60" height="20" id="idP00006_value" rx="1" />
+        <wpsmdg:textfield targetid="idP00006_value" access="r" default="0" opaque="false" background="0xffd700" foreground="0x000000" bordercolor="null" haligment="center" fontsize="18" >
+            <wpsmdg:monitor variableName="GLOBAL.P0006" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Value Description - Enum -->
+        <rect class="TransparentRect" x="95" y="40" width="455" height="24" id="idP00006_value_description_enum" />
+        <wpsmdg:enum targetid="idP00006_value_description_enum" default="texto default" opaque="false" background="0xffd700" foreground="0x000000" bordercolor="null" haligment="left" fontsize="18">
+            <wpsmdg:paramenum parameterName="P6"/>
+            <wpsmdg:monitor variableName="GLOBAL.P0006" default="0"/>
+      </wpsmdg:enum>
+	  
+	  <rect class="TransparentRect" x="460" y="40" width="80" height="24" id="button_reset" />
+	  <wpsmdg:button targetid="button_reset" text="Reset" value="0" valueSecond="128" >
+		<wpsmdg:monitor variableName="GLOBAL.P0682" default="0"/>
+	   </wpsmdg:button>
+
+    </g>
+
+    <!-- -->
+	
+	<g transform="translate(0,70)" id="Parameters2">
+
+        <!-- Rect of Important Parameters -->
+        <rect class="WhiteBorderRect" x="5" y="5" width="550" height="50" rx="5" />
+      
+        <!-- P00048 -->
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="25" >P00048</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="25" id="idP00048_description"></text>
+        <wpsmdg:text targetid="idP00048_description" value="PARAMETER$VariableText$P48"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="13" width="40" height="16" rx="1" id="idP00048_value" />
+        <wpsmdg:textfield targetid="idP00048_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0048" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+		<rect class="TransparentRect" x="300" y="13" width="230" height="16" id="idP00048_value_description_enum" />
+		<wpsmdg:enum targetid="idP00048_value_description_enum" opaque="false" background="0xffd700" foreground="0xffa500" bordercolor="null" haligment="left" fontsize="11">
+			<wpsmdg:failenum/>
+			<wpsmdg:monitor variableName="GLOBAL.P0048" default="0"/>
+		</wpsmdg:enum>
+
+        <!-- P00049 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="45" >P00049</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="45" id="idP00049_description"></text>
+        <wpsmdg:text targetid="idP00049_description" value="PARAMETER$VariableText$P49"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="33" width="40" height="16" rx="1" id="idP00049_value" />
+        <wpsmdg:textfield targetid="idP00049_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0049" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+		<rect class="TransparentRect" x="300" y="34" width="230" height="16" id="idP00049_value_description_enum" />
+		<wpsmdg:enum targetid="idP00049_value_description_enum" opaque="false" background="0xffd700" foreground="0xff0000" bordercolor="null" haligment="left" fontsize="11">
+			<wpsmdg:failenum/>
+			<wpsmdg:monitor variableName="GLOBAL.P0049" default="0"/>
+		</wpsmdg:enum>
+		
+		</g>
+	
+	
+
+    <g transform="translate(0,125)" id="Parameters">
+
+        <!-- Rect of Important Parameters -->
+        <rect class="WhiteBorderRect" x="5" y="5" width="550" height="130" rx="5" />
+      
+        <!-- P00002 -->
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="25" >P00002</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="25" id="idP00002_description"></text>
+        <wpsmdg:text targetid="idP00002_description" value="PARAMETER$VariableText$P2"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="13" width="40" height="16" rx="1" id="idP00002_value" />
+        <wpsmdg:textfield targetid="idP00002_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0002" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="25" id="idP00002_unit"></text>
+        <wpsmdg:text targetid="idP00002_unit" value="PARAMETER$Unit$P2"/>
+
+        <!-- P00003 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="45" >P00003</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="45" id="idP00003_description"></text>
+        <wpsmdg:text targetid="idP00003_description" value="PARAMETER$VariableText$P3"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="33" width="40" height="16" rx="1" id="idP00003_value" />
+        <wpsmdg:textfield targetid="idP00003_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" multiplier="0.1">
+            <wpsmdg:monitor variableName="GLOBAL.P0003" default="0" />
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="45" id="idP00003_unit"></text>
+        <wpsmdg:text targetid="idP00003_unit" value="PARAMETER$Unit$P3"/>
+
+        <!-- P00004 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="65" >P00004</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="65" id="idP00004_description"></text>
+        <wpsmdg:text targetid="idP00004_description" value="PARAMETER$VariableText$P4"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="53" width="40" height="16" rx="1" id="idP00004_value" />
+        <wpsmdg:textfield targetid="idP00004_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0004" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="65" id="idP00004_unit"></text>
+        <wpsmdg:text targetid="idP00004_unit" value="PARAMETER$Unit$P4"/>
+		
+		<!-- P00007 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="85" >P00007</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="85" id="idP00007_description"></text>
+        <wpsmdg:text targetid="idP00007_description" value="PARAMETER$VariableText$P7"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="73" width="40" height="16" rx="1" id="idP00007_value" />
+        <wpsmdg:textfield targetid="idP00007_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0007" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="85" id="idP00007_unit"></text>
+        <wpsmdg:text targetid="idP00007_unit" value="PARAMETER$Unit$P7"/>
+		
+		<!-- P00008 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="105" >P00008</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="105" id="idP00008_description"></text>
+        <wpsmdg:text targetid="idP00008_description" value="PARAMETER$VariableText$P8"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="93" width="40" height="16" rx="1" id="idP00008_value" />
+        <wpsmdg:textfield targetid="idP00008_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0008" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="105" id="idP00008_unit"></text>
+        <wpsmdg:text targetid="idP00008_unit" value="PARAMETER$Unit$P8"/>
+		
+		<!-- P00009 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="125" >P00009</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="125" id="idP00009_description"></text>
+        <wpsmdg:text targetid="idP00009_description" value="PARAMETER$VariableText$P9"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="113" width="40" height="16" rx="1" id="idP00009_value" />
+        <wpsmdg:textfield targetid="idP00009_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0009" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="125" id="idP00009_unit"></text>
+        <wpsmdg:text targetid="idP00009_unit" value="PARAMETER$Unit$P9"/>
+
+    </g>
+
+
+
+    <g transform="translate(0,260)" id="Temperatures">
+
+        <!-- Rect of Temperatures -->
+        <rect class="WhiteBorderRect" x="5" y="5" width="550" height="110" rx="5" />
+
+        <!-- P00030 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="25" >P00030</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="25" id="idP00030_description"></text>
+        <wpsmdg:text targetid="idP00030_description" value="PARAMETER$VariableText$P30"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="13" width="40" height="16" rx="1" id="idP00030_value" />
+        <wpsmdg:textfield targetid="idP00030_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0030" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="25" id="idP00030_unit"></text>
+        <wpsmdg:text targetid="idP00030_unit" value="PARAMETER$Unit$P30"/>
+
+        <!-- P00031 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="45" >P00031</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="45" id="idP00031_description"></text>
+        <wpsmdg:text targetid="idP00031_description" value="PARAMETER$VariableText$P31"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="33" width="40" height="16" rx="1" id="idP00031_value" />
+        <wpsmdg:textfield targetid="idP00031_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0031" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="45" id="idP00031_unit"></text>
+        <wpsmdg:text targetid="idP00031_unit" value="PARAMETER$Unit$P31"/>
+		
+		<!-- P00032 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="65" >P00032</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="65" id="idP00032_description"></text>
+        <wpsmdg:text targetid="idP00032_description" value="PARAMETER$VariableText$P32"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="53" width="40" height="16" rx="1" id="idP00032_value" />
+        <wpsmdg:textfield targetid="idP00032_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0032" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="65" id="idP00032_unit"></text>
+        <wpsmdg:text targetid="idP00032_unit" value="PARAMETER$Unit$P32"/>
+		
+		<!-- P00034 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="85" >P00034</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="85" id="idP00034_description"></text>
+        <wpsmdg:text targetid="idP00034_description" value="PARAMETER$VariableText$P34"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="73" width="40" height="16" rx="1" id="idP00034_value" />
+        <wpsmdg:textfield targetid="idP00034_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" multiplier="0.1">
+            <wpsmdg:monitor variableName="GLOBAL.P0034" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="85" id="idP00034_unit"></text>
+        <wpsmdg:text targetid="idP00034_unit" value="PARAMETER$Unit$P34"/>
+		
+		<!-- P00035 -->
+
+        <!-- Parameter Number -->
+        <text class="NormalTextBlack" x="15" y="105" >P00035</text>
+
+        <!-- Parameter Description -->
+        <text class="NormalTextBlack" x="65" y="105" id="idP00035_description"></text>
+        <wpsmdg:text targetid="idP00035_description" value="PARAMETER$VariableText$P35"/>
+
+        <!-- Parameter Value -->
+        <rect class="WhiteRect" x="245" y="93" width="40" height="16" rx="1" id="idP00035_value" />
+        <wpsmdg:textfield targetid="idP00035_value" access="r" default="0" opaque="false" background="0xffffff" foreground="0x000000" bordercolor="0xffffff" haligment="right" fontsize="11" >
+            <wpsmdg:monitor variableName="GLOBAL.P0035" default="0"/>
+        </wpsmdg:textfield>
+
+        <!-- Parameter Unit -->
+        <text class="NormalTextBlack" x="300" y="105" id="idP00035_unit"></text>
+        <wpsmdg:text targetid="idP00035_unit" value="PARAMETER$Unit$P35"/>
+       
+
+    </g>
+
+   
+
+</svg>
