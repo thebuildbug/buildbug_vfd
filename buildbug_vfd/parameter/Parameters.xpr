@@ -5,7 +5,7 @@
     <user_parameter parameter_ref="P204" user_value="0"/>
     <user_parameter parameter_ref="P205" user_value="2"/>
     <user_parameter parameter_ref="P207" user_value="3"/>
-    <user_parameter parameter_ref="P208" user_value="600"/>
+    <user_parameter parameter_ref="P208" user_value="500"/>
     <user_parameter parameter_ref="P209" user_value="3"/>
     <user_parameter parameter_ref="P210" user_value="1"/>
     <user_parameter parameter_ref="P213" user_value="100"/>
@@ -22,7 +22,7 @@
     <user_parameter parameter_ref="P25" user_value="0"/>
     <user_parameter parameter_ref="P27" user_value="0"/>
     <user_parameter parameter_ref="P28" user_value="0"/>
-    <user_parameter parameter_ref="P220" user_value="0"/>
+    <user_parameter parameter_ref="P220" user_value="1"/>
     <user_parameter parameter_ref="P221" user_value="0"/>
     <user_parameter parameter_ref="P222" user_value="1"/>
     <user_parameter parameter_ref="P223" user_value="0"/>
@@ -30,7 +30,7 @@
     <user_parameter parameter_ref="P225" user_value="1"/>
     <user_parameter parameter_ref="P226" user_value="4"/>
     <user_parameter parameter_ref="P227" user_value="1"/>
-    <user_parameter parameter_ref="P228" user_value="2"/>
+    <user_parameter parameter_ref="P228" user_value="1"/>
     <user_parameter parameter_ref="P229" user_value="0"/>
     <user_parameter parameter_ref="P120" user_value="1"/>
     <user_parameter parameter_ref="P121" user_value="30"/>
@@ -46,15 +46,15 @@
     <user_parameter parameter_ref="P133" user_value="30"/>
     <user_parameter parameter_ref="P134" user_value="660"/>
     <user_parameter parameter_ref="P397" user_value="11"/>
-    <user_parameter parameter_ref="P100" user_value="50"/>
-    <user_parameter parameter_ref="P101" user_value="100"/>
-    <user_parameter parameter_ref="P102" user_value="50"/>
-    <user_parameter parameter_ref="P103" user_value="100"/>
+    <user_parameter parameter_ref="P100" user_value="200"/>
+    <user_parameter parameter_ref="P101" user_value="300"/>
+    <user_parameter parameter_ref="P102" user_value="100"/>
+    <user_parameter parameter_ref="P103" user_value="200"/>
     <user_parameter parameter_ref="P104" user_value="0"/>
     <user_parameter parameter_ref="P105" user_value="0"/>
     <user_parameter parameter_ref="P106" user_value="50"/>
     <user_parameter parameter_ref="P107" user_value="50"/>
-    <user_parameter parameter_ref="P135" user_value="150"/>
+    <user_parameter parameter_ref="P135" user_value="100"/>
     <user_parameter parameter_ref="P139" user_value="50"/>
     <user_parameter parameter_ref="P149" user_value="0"/>
     <user_parameter parameter_ref="P150" user_value="0"/>
@@ -82,27 +82,27 @@
     <user_parameter parameter_ref="P138" user_value="0"/>
     <user_parameter parameter_ref="P142" user_value="1000"/>
     <user_parameter parameter_ref="P143" user_value="500"/>
-    <user_parameter parameter_ref="P145" user_value="600"/>
-    <user_parameter parameter_ref="P146" user_value="300"/>
-    <user_parameter parameter_ref="P202" user_value="0"/>
+    <user_parameter parameter_ref="P145" user_value="500"/>
+    <user_parameter parameter_ref="P146" user_value="250"/>
+    <user_parameter parameter_ref="P202" user_value="5"/>
     <user_parameter parameter_ref="P588" user_value="0"/>
     <user_parameter parameter_ref="P589" user_value="40"/>
     <user_parameter parameter_ref="P590" user_value="200"/>
     <user_parameter parameter_ref="P591" user_value="10"/>
     <user_parameter parameter_ref="P140" user_value="500"/>
     <user_parameter parameter_ref="P178" user_value="1000"/>
-    <user_parameter parameter_ref="P202" user_value="0"/>
-    <user_parameter parameter_ref="P399" user_value="793"/>
+    <user_parameter parameter_ref="P202" user_value="5"/>
+    <user_parameter parameter_ref="P399" user_value="800"/>
     <user_parameter parameter_ref="P400" user_value="220"/>
-    <user_parameter parameter_ref="P401" user_value="100"/>
-    <user_parameter parameter_ref="P402" user_value="1720"/>
-    <user_parameter parameter_ref="P403" user_value="60"/>
+    <user_parameter parameter_ref="P401" user_value="85"/>
+    <user_parameter parameter_ref="P402" user_value="24000"/>
+    <user_parameter parameter_ref="P403" user_value="400"/>
     <user_parameter parameter_ref="P404" user_value="8"/>
     <user_parameter parameter_ref="P405" user_value="1024"/>
     <user_parameter parameter_ref="P407" user_value="85"/>
     <user_parameter parameter_ref="P408" user_value="0"/>
     <user_parameter parameter_ref="P409" user_value="99"/>
-    <user_parameter parameter_ref="P18" user_value="34"/>
+    <user_parameter parameter_ref="P18" user_value="33"/>
     <user_parameter parameter_ref="P19" user_value="0"/>
     <user_parameter parameter_ref="P230" user_value="0"/>
     <user_parameter parameter_ref="P231" user_value="0"/>
@@ -135,8 +135,8 @@
     <user_parameter parameter_ref="P250" user_value="1000"/>
     <user_parameter parameter_ref="P12" user_value="0"/>
     <user_parameter parameter_ref="P263" user_value="1"/>
-    <user_parameter parameter_ref="P264" user_value="8"/>
-    <user_parameter parameter_ref="P265" user_value="0"/>
+    <user_parameter parameter_ref="P264" user_value="4"/>
+    <user_parameter parameter_ref="P265" user_value="5"/>
     <user_parameter parameter_ref="P266" user_value="0"/>
     <user_parameter parameter_ref="P267" user_value="0"/>
     <user_parameter parameter_ref="P268" user_value="0"/>
@@ -171,7 +171,7 @@
     <user_parameter parameter_ref="P82" user_value="0"/>
     <user_parameter parameter_ref="P340" user_value="0"/>
     <user_parameter parameter_ref="P358" user_value="3"/>
-    <user_parameter parameter_ref="P135" user_value="150"/>
+    <user_parameter parameter_ref="P135" user_value="100"/>
     <user_parameter parameter_ref="P139" user_value="50"/>
     <user_parameter parameter_ref="P149" user_value="0"/>
     <user_parameter parameter_ref="P150" user_value="0"/>
@@ -179,10 +179,10 @@
     <user_parameter parameter_ref="P352" user_value="2"/>
     <user_parameter parameter_ref="P37" user_value="0"/>
     <user_parameter parameter_ref="P156" user_value="120"/>
-    <user_parameter parameter_ref="P1" user_value="30"/>
+    <user_parameter parameter_ref="P1" user_value="43"/>
     <user_parameter parameter_ref="P2" user_value="0"/>
     <user_parameter parameter_ref="P3" user_value="0"/>
-    <user_parameter parameter_ref="P4" user_value="338"/>
+    <user_parameter parameter_ref="P4" user_value="339"/>
     <user_parameter parameter_ref="P5" user_value="0"/>
     <user_parameter parameter_ref="P6" user_value="0"/>
     <user_parameter parameter_ref="P7" user_value="0"/>
@@ -191,7 +191,7 @@
     <user_parameter parameter_ref="P13" user_value="1"/>
     <user_parameter parameter_ref="P14" user_value="0"/>
     <user_parameter parameter_ref="P15" user_value="0"/>
-    <user_parameter parameter_ref="P18" user_value="34"/>
+    <user_parameter parameter_ref="P18" user_value="33"/>
     <user_parameter parameter_ref="P19" user_value="0"/>
     <user_parameter parameter_ref="P22" user_value="0"/>
     <user_parameter parameter_ref="P23" user_value="130"/>
@@ -200,7 +200,7 @@
     <user_parameter parameter_ref="P27" user_value="0"/>
     <user_parameter parameter_ref="P28" user_value="0"/>
     <user_parameter parameter_ref="P29" user_value="10"/>
-    <user_parameter parameter_ref="P30" user_value="133"/>
+    <user_parameter parameter_ref="P30" user_value="115"/>
     <user_parameter parameter_ref="P37" user_value="0"/>
     <user_parameter parameter_ref="P38" user_value="0"/>
     <user_parameter parameter_ref="P39" user_value="0"/>
@@ -220,7 +220,7 @@
     <user_parameter parameter_ref="P316" user_value="1"/>
     <user_parameter parameter_ref="P375" user_value="0"/>
     <user_parameter parameter_ref="P613" user_value="1175"/>
-    <user_parameter parameter_ref="P680" user_value="1024"/>
+    <user_parameter parameter_ref="P680" user_value="5632"/>
     <user_parameter parameter_ref="P681" user_value="0"/>
     <user_parameter parameter_ref="P682" user_value="0"/>
     <user_parameter parameter_ref="P683" user_value="0"/>
@@ -346,4 +346,9 @@
     <user_parameter parameter_ref="P957" user_value="0"/>
     <user_parameter parameter_ref="P958" user_value="0"/>
     <user_parameter parameter_ref="P959" user_value="0"/>
+    <user_hidden_group_parameter group_parameter_id="G3.1_P220"/>
+    <user_hidden_group_parameter group_parameter_id="G3.1_P221"/>
+    <user_hidden_group_parameter group_parameter_id="G3.1_P223"/>
+    <user_hidden_group_parameter group_parameter_id="G3.1_P224"/>
+    <user_hidden_group_parameter group_parameter_id="G3.1_P225"/>
 </user_parameters>
